@@ -9,4 +9,7 @@
 
 <h1> Socials </h1>
 
-  ![LinkedIn]https://linkedin.com/in/julia-puschnerat-a89a89168/
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+
+
+[1]https://linkedin.com/in/julia-puschnerat-a89a89168/
