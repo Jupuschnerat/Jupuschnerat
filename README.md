@@ -1,5 +1,5 @@
 <h1>👋 Hi there!</h1>
- <p>I'm Julia Puschnerat, I'm a Le Wagon Rio de Janeiro, batch #1408 student.</p>
+ <p>I'm Julia Puschnerat, I'm a Le Wagon Rio de Janeiro, batch #1408 alumni.</p>
 
 
 <h1>💻 Tech Stacks</h1>
